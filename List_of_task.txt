@@ -1,0 +1,4 @@
+- Game - IOI 2013     -> https://oj.uz/problem/view/IOI13_game            
+- Reversals and Sums  -> https://cses.fi/problemset/task/2074
+- Substring Reversals -> https://cses.fi/problemset/task/2073
+- Yaroslav and Points -> https://codeforces.com/contest/295/problem/E

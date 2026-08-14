@@ -4,7 +4,7 @@ This project is a Seminar assignment for the Data Structures course (CS163), foc
 
 ## Repository Structure
 
-* `presentation/`: Contains presentation materials (PPTX, PDF slides).
+* `presentation/`: Contains presentation materials (PPTX, PDF slides). Contributors: Võ Gia Minh, Đặng Xuân Phát.
 * `treap/`: Contains the C++ source code for the Standard Treap implementation.
 * `programing_assignment/`: Source code, algorithm analysis files, and test cases (`.inp`/`.out`) for 4 competitive programming problems demonstrating the power of Treaps.
 * `comparison/`: Contains source code, datasets and results when comparing treap with other data structures and naive solution.
